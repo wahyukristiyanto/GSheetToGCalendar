@@ -1,7 +1,7 @@
 // Count Rows
 function countRows() {
   // Get Sheet
-  var sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName('Agenda 2024');
+  var sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName('Your Sheet Name');
 
   // Get selected cells
   var selection = sheet.getSelection();
