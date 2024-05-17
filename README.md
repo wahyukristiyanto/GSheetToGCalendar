@@ -11,7 +11,7 @@
 * <b>Copy CustomMenus.gs</b> to the new gs file
 * <b>Run CustomMenu.gs</b>
 
-# Run
+# Sync/Link to Google Calendar
 * <b>Select rows</b> you want to add to Google Calendar
 * Click <b>"📅 GCalendar Sync" -> "Add Selected Row to Google Calendar"</b>
 
