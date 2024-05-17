@@ -1,5 +1,5 @@
 // GSheetToGCalendar
-// * This code get the specific row number 6 to create Event
+// * This code get the row from startRow to create Event
 function addToCalendar() {
 
   // Get Sheet
