@@ -11,6 +11,7 @@ function countRows() {
   var lastRow = selection.getActiveRange().getLastRow();
   var totalRow = 1+lastRow-firstRow;
 
+  // Always check your output
   console.log('First Row: ' + firstRow);
   console.log('Last Row: ' + lastRow);
   console.log('Total Row: '+totalRow);
