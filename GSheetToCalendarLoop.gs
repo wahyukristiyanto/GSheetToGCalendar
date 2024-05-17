@@ -3,7 +3,7 @@
 function myFunction() {
 
   // Get Sheet
-  var sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName('Agenda 2024');
+  var sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName('Your Sheet Name');
 
   // Lets Loop It !
   for(var i=1;i<=119;i++){
@@ -26,7 +26,7 @@ function myFunction() {
 
     // Integrate with Google Calendar via Calendar ID
     // * Locate your Calendar ID : Right clidk on your calendar -> Setting & Share -> Scroll to Calendar ID)
-    CalendarApp.getCalendarById("inspekda.kra@gmail.com").createEvent(
+    CalendarApp.getCalendarById("Your Calendar ID").createEvent(
       title,
       dateStart,
       dateEnd,
