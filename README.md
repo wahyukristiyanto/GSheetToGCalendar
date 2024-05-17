@@ -1,5 +1,5 @@
 # GSheetToGCalendar
-* This is <b>AppScript</b> code to simply* link/sync your <b>Google Spreadsheet to Google Calendar</b></br>
+* This is <b>AppScript</b> code to simply link/sync your <b>Google Spreadsheet to Google Calendar</b></br>
 * Feel free to edit :)</br>
 
 
@@ -14,5 +14,3 @@
 # Sync/Link to Google Calendar
 * <b>Select rows</b> you want to add to Google Calendar
 * Click <b>"📅 GCalendar Sync" -> "Add Selected Row to Google Calendar"</b>
-
-<h6><i>* Select rows to add to Google Calendar</i></h6></br>
