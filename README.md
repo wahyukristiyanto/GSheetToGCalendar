@@ -1,4 +1,4 @@
-# GSheetToGCalendar
+# Google Sheet to Google Calendar
 * This is <b>AppScript</b> code to simply link/sync your <b>Google Spreadsheet to Google Calendar</b></br>
 * Feel free to edit :)</br>
 
