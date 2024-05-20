@@ -1,5 +1,5 @@
 // Create Simple Menu
-function createEmptyMenu() {
+function onOpen() {
   // Create the menu
   var menu = SpreadsheetApp.getUi().createMenu("📅 GCalendar Sync");
 
